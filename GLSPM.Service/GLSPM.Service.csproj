@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B34B7D8E-D6A2-4AF9-816A-DC0E2D5AF726}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GLSPM.Service</RootNamespace>
+    <AssemblyName>GLSPM.Service</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\lib\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\GLSWebAPI\packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="GLSPMContext.cs" />
+    <Compile Include="Modules\BasicModule\AsbestosPercentageDetailService.cs" />
+    <Compile Include="Modules\BasicModule\AsbestosPercentageService.cs" />
+    <Compile Include="Modules\BasicModule\AttachmentLibraryService.cs" />
+    <Compile Include="Modules\BasicModule\ClientContactPersonService.cs" />
+    <Compile Include="Modules\BasicModule\ClientService.cs" />
+    <Compile Include="Modules\BasicModule\CompositeNonAsbestosContentsDetailService.cs" />
+    <Compile Include="Modules\BasicModule\CompositeNonAsbestosContentsService.cs" />
+    <Compile Include="Modules\BasicModule\EmailAccountsService.cs" />
+    <Compile Include="Modules\BasicModule\EmailAttachmentService.cs" />
+    <Compile Include="Modules\BasicModule\EmailHistoryService.cs" />
+    <Compile Include="Modules\BasicModule\EmailScheduleService.cs" />
+    <Compile Include="Modules\BasicModule\EmailSenderService.cs" />
+    <Compile Include="Modules\BasicModule\EmployeeService.cs" />
+    <Compile Include="Modules\BasicModule\GeneralSettingService.cs" />
+    <Compile Include="Modules\BasicModule\LocationService.cs" />
+    <Compile Include="Modules\BasicModule\MatrixService.cs" />
+    <Compile Include="Modules\BasicModule\MenuDefinitionService.cs" />
+    <Compile Include="Modules\BasicModule\NonConformanceReportService.cs" />
+    <Compile Include="Modules\BasicModule\PackageCodeService.cs" />
+    <Compile Include="Modules\BasicModule\PCMCommentService.cs" />
+    <Compile Include="Modules\BasicModule\QCService.cs" />
+    <Compile Include="Modules\BasicModule\RolesMenuService.cs" />
+    <Compile Include="Modules\BasicModule\SampleCompositeHomogenityService.cs" />
+    <Compile Include="Modules\BasicModule\SampledByService.cs" />
+    <Compile Include="Modules\BasicModule\SampleLayerService.cs" />
+    <Compile Include="Modules\BasicModule\SampleTypeService.cs" />
+    <Compile Include="Modules\DocumentModule\DocumentFolderStructureService.cs" />
+    <Compile Include="Modules\DocumentModule\DocumentLibraryService.cs" />
+    <Compile Include="Modules\DocumentModule\DocumentTypeService.cs" />
+    <Compile Include="Modules\FinancialModule\ExpenseTransactionService.cs" />
+    <Compile Include="Modules\FinancialModule\ExpenseTransactionViewModel.cs" />
+    <Compile Include="Modules\FinancialModule\ExpenseTypeService.cs" />
+    <Compile Include="Modules\FinancialModule\IncomeStatementService.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryAttachmentService.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryChemicalDetailService.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryChemicalNameService.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryChemicalService.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryEquipmentDetailService.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryEquipmentService.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryGeneralLabSupplyService.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryOfficeSupplyService.cs" />
+    <Compile Include="Modules\InventoryModule\InventorySupplyTypeService.cs" />
+    <Compile Include="Modules\InvoiceModule\ClientInvoiceDetailService.cs" />
+    <Compile Include="Modules\InvoiceModule\ClientInvoiceService.cs" />
+    <Compile Include="Modules\InvoiceModule\InvoiceSettingService.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentPCMCVService.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentPCMFieldBlankRawDataService.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentPCMService.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentProjectSampleDetailService.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentProjectSampleService.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentProjectService.cs" />
+    <Compile Include="Modules\ProjectManagement\BatchNumberRecordService.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldSampleDetailService.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldSampleService.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldService.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldSettingService.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldSporeTypeService.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldTapeLiftSampleDetailService.cs" />
+    <Compile Include="Modules\ProjectManagement\PCMCVService.cs" />
+    <Compile Include="Modules\ProjectManagement\PCMFieldBlankRawDataService.cs" />
+    <Compile Include="Modules\ProjectManagement\PCMService.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectSampleDetailService.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectSampleService.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectService.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectStatusService.cs" />
+    <Compile Include="Modules\ProjectManagement\QCAnalyticDataService.cs" />
+    <Compile Include="Modules\UserSettings\UserDetailService.cs" />
+    <Compile Include="Modules\UserSettings\UserInRolesService.cs" />
+    <Compile Include="Modules\UserSettings\UserLoginHistoryLogsService.cs" />
+    <Compile Include="Modules\UserSettings\UserRolesService.cs" />
+    <Compile Include="Modules\UserSettings\UserService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GLSPM.Data\GLSPM.Data.csproj">
+      <Project>{8bd2257a-6574-4fda-a123-00198c40c813}</Project>
+      <Name>GLSPM.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

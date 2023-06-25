@@ -1,0 +1,33 @@
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Service\obj\Debug\GLSPM.Service.csprojAssemblyReference.cache
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Service\obj\Debug\GLSPM.Service.csproj.CoreCompileInputs.cache
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\GLSPM.Service.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\GLSPM.Service.pdb
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\EntityFramework.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\GLSPM.Data.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\GLSPM.Data.pdb
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Service\obj\Debug\GLSPM.Service.csproj.CopyComplete
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Service\obj\Debug\GLSPM.Service.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Service\obj\Debug\GLSPM.Service.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\GLSPM.Service.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\GLSPM.Service.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\EntityFramework.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\GLSPM.Data.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Service\bin\Debug\GLSPM.Data.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Service\obj\Debug\GLSPM.Service.csprojAssemblyReference.cache
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Service\obj\Debug\GLSPM.Service.csproj.CoreCompileInputs.cache
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Service\obj\Debug\GLSPM.Service.csproj.CopyComplete
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Service\obj\Debug\GLSPM.Service.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Service\obj\Debug\GLSPM.Service.pdb
+C:\GLS\GLSWebAPI\GLSPM.Service\bin\Debug\GLSPM.Service.dll
+C:\GLS\GLSWebAPI\GLSPM.Service\bin\Debug\GLSPM.Service.pdb
+C:\GLS\GLSWebAPI\GLSPM.Service\bin\Debug\EntityFramework.dll
+C:\GLS\GLSWebAPI\GLSPM.Service\bin\Debug\GLSPM.Data.dll
+C:\GLS\GLSWebAPI\GLSPM.Service\bin\Debug\System.ComponentModel.Annotations.dll
+C:\GLS\GLSWebAPI\GLSPM.Service\bin\Debug\GLSPM.Data.pdb
+C:\GLS\GLSWebAPI\GLSPM.Service\obj\Debug\GLSPM.Service.csproj.AssemblyReference.cache
+C:\GLS\GLSWebAPI\GLSPM.Service\obj\Debug\GLSPM.Service.csproj.CoreCompileInputs.cache
+C:\GLS\GLSWebAPI\GLSPM.Service\obj\Debug\GLSPM.Service.csproj.CopyComplete
+C:\GLS\GLSWebAPI\GLSPM.Service\obj\Debug\GLSPM.Service.dll
+C:\GLS\GLSWebAPI\GLSPM.Service\obj\Debug\GLSPM.Service.pdb

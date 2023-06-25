@@ -1,0 +1,592 @@
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\GLSWebAPI.dll.config
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\GLSWebAPI.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\GLSWebAPI.pdb
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csc.exe
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csc.exe.config
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csc.rsp
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csi.exe
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csi.exe.config
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csi.rsp
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.AppContext.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Console.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Net.Http.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\vbc.exe
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\vbc.exe.config
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\vbc.rsp
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Antlr3.Runtime.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Newtonsoft.Json.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Helpers.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Mvc.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Optimization.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Razor.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\WebGrease.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Newtonsoft.Json.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Helpers.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Mvc.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Optimization.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Razor.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Antlr3.Runtime.pdb
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\obj\Debug\GLSWebAPI.csproj.CoreCompileInputs.cache
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\obj\Debug\GLSWebAPI.csproj.CopyComplete
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\obj\Debug\GLSWebAPI.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\obj\Debug\GLSWebAPI.pdb
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Common.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Data.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Service.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\EntityFramework.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Common.pdb
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Data.pdb
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Service.pdb
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\obj\Debug\GLSWebAPI.csprojAssemblyReference.cache
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Cors.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Options.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Buffers.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.ComponentModel.Annotations.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Memory.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Numerics.Vectors.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Text.Encodings.Web.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.Cors.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Cors.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Options.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Buffers.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Memory.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Numerics.Vectors.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Text.Encodings.Web.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Cors.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.Cors.xml
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\netstandard.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.AppContext.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Collections.Concurrent.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Collections.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Collections.NonGeneric.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Collections.Specialized.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.ComponentModel.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.ComponentModel.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Console.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Data.Common.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.Contracts.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.Debug.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.Process.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.Tools.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.Tracing.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Drawing.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Dynamic.Runtime.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Globalization.Calendars.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Globalization.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Globalization.Extensions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.Compression.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.FileSystem.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.IsolatedStorage.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.Pipes.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Linq.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Linq.Expressions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Linq.Parallel.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Linq.Queryable.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Http.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.NameResolution.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.NetworkInformation.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Ping.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Requests.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Security.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Sockets.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.WebSockets.Client.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.WebSockets.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.ObjectModel.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Reflection.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Reflection.Extensions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Reflection.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Resources.Reader.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Resources.ResourceManager.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Resources.Writer.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Extensions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Handles.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.InteropServices.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Numerics.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Claims.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Principal.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.SecureString.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Text.Encoding.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Text.RegularExpressions.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.Overlapped.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.Tasks.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.Thread.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.ThreadPool.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.Timer.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.ValueTuple.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.ReaderWriter.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.XDocument.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.XmlDocument.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.XmlSerializer.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.XPath.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\GLSWebAPI.dll.config
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\GLSWebAPI.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\GLSWebAPI.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csc.exe
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csc.exe.config
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csc.rsp
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csi.exe
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csi.exe.config
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\csi.rsp
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.AppContext.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Console.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Net.Http.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\vbc.exe
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\vbc.exe.config
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\vbc.rsp
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Win32.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\netstandard.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.AppContext.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Collections.Concurrent.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Collections.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Collections.NonGeneric.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Collections.Specialized.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.ComponentModel.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.ComponentModel.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Console.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Data.Common.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.Contracts.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.Debug.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.Process.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.StackTrace.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.Tools.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.TraceSource.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Diagnostics.Tracing.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Drawing.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Dynamic.Runtime.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Globalization.Calendars.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Globalization.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Globalization.Extensions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.Compression.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.Compression.ZipFile.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.FileSystem.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.FileSystem.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.FileSystem.Watcher.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.IsolatedStorage.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.MemoryMappedFiles.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.Pipes.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Linq.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Linq.Expressions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Linq.Parallel.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Linq.Queryable.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Http.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.NameResolution.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.NetworkInformation.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Ping.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Requests.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Security.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Sockets.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.WebHeaderCollection.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.WebSockets.Client.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.WebSockets.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.ObjectModel.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Reflection.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Reflection.Extensions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Reflection.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Resources.Reader.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Resources.ResourceManager.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Resources.Writer.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Extensions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Handles.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.InteropServices.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Numerics.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Serialization.Formatters.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Serialization.Json.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Serialization.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.Serialization.Xml.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Claims.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Cryptography.Algorithms.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Cryptography.Csp.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Cryptography.Encoding.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Cryptography.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.Principal.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Security.SecureString.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Text.Encoding.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Text.Encoding.Extensions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Text.RegularExpressions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.Overlapped.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.Tasks.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.Tasks.Parallel.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.Thread.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.ThreadPool.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Threading.Timer.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.ValueTuple.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.ReaderWriter.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.XDocument.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.XmlDocument.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.XmlSerializer.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.XPath.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Xml.XPath.XDocument.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Antlr3.Runtime.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Common.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Data.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Service.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Cors.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Options.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Newtonsoft.Json.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Buffers.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.ComponentModel.Annotations.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Memory.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Numerics.Vectors.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Text.Encodings.Web.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Cors.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Helpers.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.Cors.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Mvc.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Optimization.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Razor.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\WebGrease.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\EntityFramework.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Common.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Data.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\GLSPM.Service.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Cors.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Options.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Buffers.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Memory.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Numerics.Vectors.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Text.Encodings.Web.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.Cors.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Newtonsoft.Json.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Helpers.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Mvc.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Optimization.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.Razor.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Antlr3.Runtime.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\obj\Debug\GLSWebAPI.csprojAssemblyReference.cache
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\obj\Debug\GLSWebAPI.csproj.CoreCompileInputs.cache
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\obj\Debug\GLSWebAPI.csproj.CopyComplete
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\obj\Debug\GLSWebAPI.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\obj\Debug\GLSWebAPI.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\EO.Pdf.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\EO.Base.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\EO.WebBrowser.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSWebAPI\bin\EO.WebEngine.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\GLSWebAPI.dll.config
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\GLSWebAPI.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\GLSWebAPI.pdb
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\csc.exe
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\csc.exe.config
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\csc.rsp
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\csi.exe
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\csi.exe.config
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\csi.rsp
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.AppContext.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Console.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Globalization.Calendars.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Net.Http.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Net.Sockets.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\vbc.exe
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\vbc.exe.config
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\vbc.rsp
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Antlr3.Runtime.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\EO.Base.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\EO.Pdf.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\EO.WebBrowser.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\EO.WebEngine.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\GLSPM.Common.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\GLSPM.Data.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\GLSPM.Service.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.AspNetCore.Cors.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.Options.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Newtonsoft.Json.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Select.Pdf.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Buffers.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.ComponentModel.Annotations.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Memory.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Net.Http.Formatting.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Numerics.Vectors.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Text.Encodings.Web.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Cors.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Helpers.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Http.Cors.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Http.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Http.WebHost.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Mvc.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Optimization.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Razor.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.WebPages.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\WebGrease.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\EntityFramework.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\GLSPM.Common.pdb
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\GLSPM.Data.pdb
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\GLSPM.Service.pdb
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\EO.Base.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\EO.Pdf.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\EO.WebBrowser.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\EO.WebEngine.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.AspNetCore.Cors.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.Options.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Select.Pdf.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Buffers.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Memory.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Numerics.Vectors.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Text.Encodings.Web.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Http.Cors.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Newtonsoft.Json.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Net.Http.Formatting.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Helpers.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Http.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Http.WebHost.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Mvc.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Optimization.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.Razor.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.WebPages.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Antlr3.Runtime.pdb
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Select.Html.dep
+C:\GLS\GLSWebAPI\GLSWebAPI\bin\Select.Tools.dep
+C:\GLS\GLSWebAPI\GLSWebAPI\obj\Debug\GLSWebAPI.csproj.AssemblyReference.cache
+C:\GLS\GLSWebAPI\GLSWebAPI\obj\Debug\GLSWebAPI.csproj.CoreCompileInputs.cache
+C:\GLS\GLSWebAPI\GLSWebAPI\obj\Debug\GLSWebAPI.csproj.CopyComplete
+C:\GLS\GLSWebAPI\GLSWebAPI\obj\Debug\GLSWebAPI.dll
+C:\GLS\GLSWebAPI\GLSWebAPI\obj\Debug\GLSWebAPI.pdb

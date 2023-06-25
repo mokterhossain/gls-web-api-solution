@@ -1,0 +1,6 @@
+C:\GLS\GLSWebAPI\TestClassLib\bin\Debug\TestClassLib.dll
+C:\GLS\GLSWebAPI\TestClassLib\bin\Debug\TestClassLib.pdb
+C:\GLS\GLSWebAPI\TestClassLib\obj\Debug\TestClassLib.csproj.CoreCompileInputs.cache
+C:\GLS\GLSWebAPI\TestClassLib\obj\Debug\TestClassLib.dll
+C:\GLS\GLSWebAPI\TestClassLib\obj\Debug\TestClassLib.pdb
+C:\GLS\GLSWebAPI\TestClassLib\obj\Debug\TestClassLib.csproj.AssemblyReference.cache

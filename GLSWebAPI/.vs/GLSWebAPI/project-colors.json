@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "35712592-b147-4164-985f-7248d37feed8": {
+      "ProjectGuid": "35712592-b147-4164-985f-7248d37feed8",
+      "DisplayName": "GLSWebAPI",
+      "ColorIndex": 0
+    },
+    "b34b7d8e-d6a2-4af9-816a-dc0e2d5af726": {
+      "ProjectGuid": "b34b7d8e-d6a2-4af9-816a-dc0e2d5af726",
+      "DisplayName": "GLSPM.Service",
+      "ColorIndex": 1
+    },
+    "8bd2257a-6574-4fda-a123-00198c40c813": {
+      "ProjectGuid": "8bd2257a-6574-4fda-a123-00198c40c813",
+      "DisplayName": "GLSPM.Data",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

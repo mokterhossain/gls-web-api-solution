@@ -1,0 +1,16 @@
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Common\obj\Debug\GLSPM.Common.csproj.CoreCompileInputs.cache
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Common\bin\Debug\GLSPM.Common.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Common\bin\Debug\GLSPM.Common.pdb
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Common\obj\Debug\GLSPM.Common.dll
+C:\Working Directory\GLS-SadiqurRahman\GLSPM.Common\obj\Debug\GLSPM.Common.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Common\bin\Debug\GLSPM.Common.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Common\bin\Debug\GLSPM.Common.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Common\obj\Debug\GLSPM.Common.csproj.CoreCompileInputs.cache
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Common\obj\Debug\GLSPM.Common.dll
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Common\obj\Debug\GLSPM.Common.pdb
+C:\Working Directory\GLS\GLS-SadiqurRahman\GLSPM.Common\obj\Debug\GLSPM.Common.csprojAssemblyReference.cache
+C:\GLS\GLSWebAPI\GLSPM.Common\bin\Debug\GLSPM.Common.dll
+C:\GLS\GLSWebAPI\GLSPM.Common\bin\Debug\GLSPM.Common.pdb
+C:\GLS\GLSWebAPI\GLSPM.Common\obj\Debug\GLSPM.Common.csproj.CoreCompileInputs.cache
+C:\GLS\GLSWebAPI\GLSPM.Common\obj\Debug\GLSPM.Common.dll
+C:\GLS\GLSWebAPI\GLSPM.Common\obj\Debug\GLSPM.Common.pdb

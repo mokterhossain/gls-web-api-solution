@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8BD2257A-6574-4FDA-A123-00198C40C813}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GLSPM.Data</RootNamespace>
+    <AssemblyName>GLSPM.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Modules\BasicModule\AsbestosPercentage.cs" />
+    <Compile Include="Modules\BasicModule\AsbestosPercentageDetail.cs" />
+    <Compile Include="Modules\BasicModule\AttachmentLibrary.cs" />
+    <Compile Include="Modules\BasicModule\AttachmentLibraryViewModel.cs" />
+    <Compile Include="Modules\BasicModule\Client.cs" />
+    <Compile Include="Modules\BasicModule\ClientContactPerson.cs" />
+    <Compile Include="Modules\BasicModule\ClientViewModel.cs" />
+    <Compile Include="Modules\BasicModule\CompositeNonAsbestosContents.cs" />
+    <Compile Include="Modules\BasicModule\CompositeNonAsbestosContentsDetail.cs" />
+    <Compile Include="Modules\BasicModule\EmailAccounts.cs" />
+    <Compile Include="Modules\BasicModule\EmailAttachment.cs" />
+    <Compile Include="Modules\BasicModule\EmailHistory.cs" />
+    <Compile Include="Modules\BasicModule\EmailHistoryViewModel.cs" />
+    <Compile Include="Modules\BasicModule\EmailListForAutoComplete.cs" />
+    <Compile Include="Modules\BasicModule\EmailSchedule.cs" />
+    <Compile Include="Modules\BasicModule\Employee.cs" />
+    <Compile Include="Modules\BasicModule\GeneralSetting.cs" />
+    <Compile Include="Modules\BasicModule\InvoiceDetails.cs" />
+    <Compile Include="Modules\BasicModule\Location.cs" />
+    <Compile Include="Modules\BasicModule\Matrix.cs" />
+    <Compile Include="Modules\BasicModule\MenuDefinition.cs" />
+    <Compile Include="Modules\BasicModule\NonConformanceReport.cs" />
+    <Compile Include="Modules\BasicModule\PackageCode.cs" />
+    <Compile Include="Modules\BasicModule\PCMComment.cs" />
+    <Compile Include="Modules\BasicModule\QC.cs" />
+    <Compile Include="Modules\BasicModule\RolesMenu.cs" />
+    <Compile Include="Modules\BasicModule\RolesMenuViewModel.cs" />
+    <Compile Include="Modules\BasicModule\SampleCompositeHomogenity.cs" />
+    <Compile Include="Modules\BasicModule\SampledBy.cs" />
+    <Compile Include="Modules\BasicModule\SampleLayer.cs" />
+    <Compile Include="Modules\BasicModule\SampleType.cs" />
+    <Compile Include="Modules\BasicModule\TestLocation.cs" />
+    <Compile Include="Modules\DocumentModule\DocumentFolderStructure.cs" />
+    <Compile Include="Modules\DocumentModule\DocumentLibrary.cs" />
+    <Compile Include="Modules\DocumentModule\DocumentType.cs" />
+    <Compile Include="Modules\FinancialModule\ExpenseTransaction.cs" />
+    <Compile Include="Modules\FinancialModule\ExpenseType.cs" />
+    <Compile Include="Modules\FinancialModule\IncomeStatementViewModel.cs" />
+    <Compile Include="Modules\FinancialModule\SampleSubmitSummary.cs" />
+    <Compile Include="Modules\FinancialModule\StatementOfAccountsSummary.cs" />
+    <Compile Include="Modules\FinancialModule\StatementOfAccountsViewmodel.cs" />
+    <Compile Include="Modules\InventoryModule\ExpiredNotificationViewModel.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryAttachment.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryChemical.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryChemicalDetail.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryChemicalDetailViewModel.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryChemicalName.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryEquipment.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryEquipmentDetail.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryEquipmentDetailViewModel.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryEquipmentViewModel.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryGeneralLabSupply.cs" />
+    <Compile Include="Modules\InventoryModule\InventoryOfficeSupply.cs" />
+    <Compile Include="Modules\InventoryModule\InventorySupplyType.cs" />
+    <Compile Include="Modules\InvoiceModule\ClientInvoice.cs" />
+    <Compile Include="Modules\InvoiceModule\ClientInvoiceDetail.cs" />
+    <Compile Include="Modules\InvoiceModule\ClientInvoiceViewModel.cs" />
+    <Compile Include="Modules\InvoiceModule\InvoiceSetting.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentPCM.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentPCMCV.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentPCMFieldBlankRawData.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentProject.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentProjectCheck.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentProjectSample.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentProjectSampleDetail.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentProjectSampleDetailViewModel.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentProjectSampleUpdateResult.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentProjectSampleViewModel.cs" />
+    <Compile Include="Modules\ProjectManagement\AmendmentProjectViewModel.cs" />
+    <Compile Include="Modules\ProjectManagement\BatchNumberRecord.cs" />
+    <Compile Include="Modules\ProjectManagement\Mold.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldSample.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldSampleDetail.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldSampleDetailViewModel.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldSampleViewModel.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldSetting.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldSporeType.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldTapeLiftReportModel.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldTapeLiftSampleDetail.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldTapeLiftSampleDetailViewModel.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldViewModel.cs" />
+    <Compile Include="Modules\ProjectManagement\MoldViewModel2.cs" />
+    <Compile Include="Modules\ProjectManagement\PCM.cs" />
+    <Compile Include="Modules\ProjectManagement\PCMCV.cs" />
+    <Compile Include="Modules\ProjectManagement\PCMFieldBlankRawData.cs" />
+    <Compile Include="Modules\ProjectManagement\Project.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectSample.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectSampleDetail.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectSampleDetailViewModel.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectSamplePCMViewModel.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectSampleUpdateResult.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectSampleViewModel.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectStatus.cs" />
+    <Compile Include="Modules\ProjectManagement\ProjectViewModel.cs" />
+    <Compile Include="Modules\ProjectManagement\QCAnalyticData.cs" />
+    <Compile Include="Modules\ProjectManagement\SampleCountSummaryForReportViewModel.cs" />
+    <Compile Include="Modules\ReportModule\SootAnalyte.cs" />
+    <Compile Include="Modules\ReportModule\SootConcentrationCvePercentage.cs" />
+    <Compile Include="Modules\ReportModule\SootReport.cs" />
+    <Compile Include="Modules\ReportModule\SootReportDetail.cs" />
+    <Compile Include="Modules\UserSettings\User.cs" />
+    <Compile Include="Modules\UserSettings\UserCustom.cs" />
+    <Compile Include="Modules\UserSettings\UserDetail.cs" />
+    <Compile Include="Modules\UserSettings\UserInRole.cs" />
+    <Compile Include="Modules\UserSettings\UserLoginHistoryLog.cs" />
+    <Compile Include="Modules\UserSettings\UserRole.cs" />
+    <Compile Include="Modules\UserSettings\UserWithRole.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Response.cs" />
+    <Compile Include="ResponseProject.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
